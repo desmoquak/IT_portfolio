@@ -1,4 +1,4 @@
-#My IT_portfolio. 
+# My IT_portfolio. 
 
 Hello, my name is John,
-Here are a few  of the I have learned in my Journey.
+Here are a few  of the things I have learned in my journey.
